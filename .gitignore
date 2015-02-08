@@ -41,3 +41,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+includes/database.php
+logs/brands.txt
+logs/link_file.txt
+logs/log.txt
+logs/stores.txt
+one_time_pass_entry.php
+PasswordHash.php
+PasswordHash.php
+requests.txt

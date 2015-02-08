@@ -1,0 +1,17 @@
+#enter_form input[type='text'] {
+	width: 300px;
+}
+
+.input_error {
+	border: 2px solid #f00;
+}
+
+.label_error {
+	color: #f00;
+	font-weight: bold;
+}
+
+#multiple_brands, #multiple_stores {
+	color: #f00;
+	font-weight: bold;
+}
